@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "facesafe",
+		"path": "."
+	},
+	{
+		"name": "PHPMailer",
+		"path": "..\\Airona-web-page-main\\web\\PHPMailer"
+	}
+],
+  "settings": {}
+}
